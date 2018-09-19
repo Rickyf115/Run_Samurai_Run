@@ -5,7 +5,7 @@ This Project was held in another git repository, therefore early commits will no
 
 Project Contributors:
 
-Ricardo Faure
-Garrett Greenfield
-Yousef Al-Absi
-Brian Fung
+- Ricardo Faure
+- Garrett Greenfield
+-  Yousef Al-Absi
+- Brian Fung
